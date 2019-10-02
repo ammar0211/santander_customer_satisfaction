@@ -1,6 +1,4 @@
 # Santander Customer Satisfaction-Which customers are happy customers?
-## #santander_customer_satisfaction
-
 
 ### Dataset Link - 
 https://www.kaggle.com/c/santander-customer-satisfaction/data
